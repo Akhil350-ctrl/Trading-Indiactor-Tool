@@ -13,3 +13,4 @@ To build an open-source toolkit for traders and developers to test strategies ea
 
 ## Status
 🚀 Actively developing and improving
+Update: Improving the project step by step 🚀
