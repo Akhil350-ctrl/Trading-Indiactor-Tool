@@ -15,3 +15,4 @@ To build an open-source toolkit for traders and developers to test strategies ea
 🚀 Actively developing and improving
 Update: Improving the project step by step 🚀
 fibonnaci 15 min strategy
+commit
