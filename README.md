@@ -1,0 +1,1 @@
+# Trading-Indiactor-Tool
